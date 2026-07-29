@@ -1,3 +1,7 @@
+<scripts>
+ var version = document.getElementByID("v").innerHTML = "1.9.3"
+</scripts>
+
 <div align="center">
 
 # ⚡ Linux Environment Setup & Configs
@@ -31,7 +35,7 @@ Ez a repository tartalmazza a friss Linux környezet gyors és hatékony felép�
 
 ## 📜 Változási Napló (Changelog)
 
-* **`v1.9.2`** – *2026.07.29*
+* **`v<div id="v"></div>`** – *2026.07.29*
   * ✨ Hozzáadva: `LinuxDistrok.sh` szkript
   * 📁 Hozzáadva: `LinuxDistros` mappa struktúra
   * 🎨 Hozzáadva: MacOS Golden Gate háttérkép kollekció
