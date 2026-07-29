@@ -30,7 +30,8 @@ Ez a repository tartalmazza a friss Linux környezet gyors és hatékony felép�
 ---
 
 ## 📜 Változási Napló (Changelog)
-
+* **`v1.9.4`** - *2026.07.30* !Nincs Kiadva!
+  * 📝 Frissitve: `Readme.md` fájl
 * **`v1.9.3`** – *2026.07.29*
   * ✨ Hozzáadva: `LinuxDistrok.sh` szkript
   * 📁 Hozzáadva: `LinuxDistros` mappa struktúra
