@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Linux Environment Setup & Configs
+# ⚡ Linux Környezet Beállítás és Konfigurációk
 
 > *Modern, optimalizált és automatizált alapbeállítások Linux környezethez.*
 
