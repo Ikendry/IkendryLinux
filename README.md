@@ -1,18 +1,43 @@
-# 🚀 Alap Linux Beállítások 1.9.2 🚀
+<div align="center">
 
-###  frissitve: 2026.07.29 11:53
+# ⚡ Linux Environment Setup & Configs
 
-Ez a repository tartalmazza a friss Linux környezet beállításához szükséges alapvető konfigurációs fájlokat és frissítési szkripteket.
+> *Modern, optimalizált és automatizált alapbeállítások Linux környezethez.*
 
-## 📚 Változási Napló 📚 
-* LinuxDistrok.sh hozzáadva!
-* LinuxDistros mappa hozzáadva!
-* MacOS 27 Golden Gate Háttérkép hozzáadva!
+[![Version](https://img.shields.io/badge/version-1.9.2-blue.svg?style=flat-square&color=6366f1)](https://github.com)
+[![Updated](https://img.shields.io/badge/updated-2026.07.29-emerald.svg?style=flat-square)](https://github.com)
+[![License](https://img.shields.io/badge/license-MIT-purple.svg?style=flat-square)](https://github.com)
 
+</div>
 
-## 📦 Tartalom és Funkciók 📦
+---
 
-* 🖼️ **Háttérképeket:** tartalmaz.🖼️
-* 🔄 **Frissítési szkript:** Automatikusan frissíti a `good_shape` telepítőszkriptet.🔄
-* ⚙️ **Bash konfiguráció:** Egyéni aliasok és beállítások a `~/.bashrc` fájlhoz.⚙️
-* 🐚 **Zsh konfiguráció:** Egyéni aliasok és beállítások a `~/.zshrc` fájlhoz.🐚
+## 🧭 Áttekintés
+
+Ez a repository tartalmazza a friss Linux környezet gyors és hatékony felépítéséhez szükséges alapvető konfigurációs fájlokat, szkripteket és esztétikai elemeket.
+
+---
+
+## 📦 Tartalom & Funkciók
+
+| Komponens | Leírás |
+| :--- | :--- |
+| 🖼️ **Háttérképek** | Egyedi gyűjtemény, beleértve a prémium látványelemeket is. |
+| 🔄 **Frissítési szkript** | Automatikusan karbantartja és frissíti a `good_shape` telepítőt. |
+| ⚙️ **Bash Config** | Személyre szabott aliasok és optimalizációk (`~/.bashrc`). |
+| 🐚 **Zsh Config** | Modern shell élmény egyedi beállításokkal (`~/.zshrc`). |
+
+---
+
+## 📜 Változási Napló (Changelog)
+
+* **`v1.9.2`** – *2026.07.29*
+  * ✨ Hozzáadva: `LinuxDistrok.sh` szkript
+  * 📁 Hozzáadva: `LinuxDistros` mappa struktúra
+  * 🎨 Hozzáadva: MacOS Golden Gate háttérkép kollekció
+
+---
+
+<div align="center">
+  <sub>Készült ❤️-tel a hatékonyabb fejlesztői környezetért.</sub>
+</div>
