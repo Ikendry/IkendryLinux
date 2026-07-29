@@ -2,7 +2,7 @@
 
 Ez a repository tartalmazza a friss Linux környezet beállításához szükséges alapvető konfigurációs fájlokat és frissítési szkripteket.
 
-## 📚 Változási Napló 📚  frissitve: ${Date}
+## 📚 Változási Napló 📚  frissitve: 2026.07.29 11:53
 * LinuxDistrok.sh hozzáadva!
 * LinuxDistros mappa hozzáadva!
 * MacOS 27 Golden Gate Háttérkép hozzáadva!
