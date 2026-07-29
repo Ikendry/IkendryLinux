@@ -1,14 +1,10 @@
-<scripts>
- var version = document.getElementByID("v").innerHTML = "1.9.3"
-</scripts>
-
 <div align="center">
 
 # ⚡ Linux Environment Setup & Configs
 
 > *Modern, optimalizált és automatizált alapbeállítások Linux környezethez.*
 
-[![Version](https://img.shields.io/badge/version-1.9.2-blue.svg?style=flat-square&color=6366f1)](https://github.com)
+[![Version](https://img.shields.io/badge/version-1.9.3-blue.svg?style=flat-square&color=6366f1)](https://github.com)
 [![Updated](https://img.shields.io/badge/updated-2026.07.29-emerald.svg?style=flat-square)](https://github.com)
 [![License](https://img.shields.io/badge/license-MIT-purple.svg?style=flat-square)](https://github.com)
 
@@ -35,7 +31,7 @@ Ez a repository tartalmazza a friss Linux környezet gyors és hatékony felép�
 
 ## 📜 Változási Napló (Changelog)
 
-* **`v<div id="v"></div>`** – *2026.07.29*
+* **`v1.9.3`** – *2026.07.29*
   * ✨ Hozzáadva: `LinuxDistrok.sh` szkript
   * 📁 Hozzáadva: `LinuxDistros` mappa struktúra
   * 🎨 Hozzáadva: MacOS Golden Gate háttérkép kollekció
