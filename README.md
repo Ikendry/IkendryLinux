@@ -1,4 +1,4 @@
-# 🚀 Alap Linux Beállítások (Default Linux Setup) 1.9.1 🚀
+# 🚀 Alap Linux Beállítások (IkendryLinux Setup) 1.9.1 🚀
 
 Ez a repository tartalmazza a friss Linux környezet beállításához szükséges alapvető konfigurációs fájlokat és frissítési szkripteket.
 
