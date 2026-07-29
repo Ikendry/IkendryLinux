@@ -1,11 +1,11 @@
-# 🚀 Alap Linux Beállítások (IkendryLinux Setup) 1.9.1 🚀
+# 🚀 Alap Linux Beállítások 1.9.2 🚀
 
 Ez a repository tartalmazza a friss Linux környezet beállításához szükséges alapvető konfigurációs fájlokat és frissítési szkripteket.
 
-## 📚 Változási Napló 📚  frissitve: 2026.07.29
+## 📚 Változási Napló 📚  frissitve: ${Date}
 * LinuxDistrok.sh hozzáadva!
 * LinuxDistros mappa hozzáadva!
-
+* MacOS 27 Golden Gate Háttérkép hozzáadva!
 ## 📦 Tartalom és Funkciók 📦
 
 * 🖼️ **Háttérképet:** tartalmaz.🖼️
