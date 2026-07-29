@@ -27,7 +27,11 @@ sudo do-release-upgrade
 echo "========================================"
 echo "            UPDATE SCRIPT               "
 echo "========================================"
-
+sleep 5
+clear
+echo "========================================"
+echo "            ÚjraInditási Kérelem        "
+echo "========================================"
 read -p "Szeretnéd Újraindítani? (i/n): " valasz
 
 # Kis- és nagybetűk kezelése (pl. I vagy i)
@@ -50,3 +54,6 @@ case "$valasz" in
         echo "Érvénytelen válasz! Kérlek, igent (i) vagy nemet (n) adj meg."
         ;;
 esac
+echo "========================================"
+echo "            ÚjraInditási Kérelem        "
+echo "========================================"
