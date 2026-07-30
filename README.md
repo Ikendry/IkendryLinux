@@ -9,6 +9,11 @@
 [![License](https://img.shields.io/badge/license-MIT-purple.svg?style=flat-square)](https://github.com)
 
 </div>
+---
+
+## 🗝️ License kulcs
+
+> *3e8fs-p2kk4-55sam-p6a4b
 
 ---
 
@@ -41,6 +46,9 @@ Ez a repository tartalmazza a friss Linux környezet gyors és hatékony felép�
   * 🎨 Hozzáadva: MacOS Golden Gate háttérkép kollekció
 
 ---
+
+
+
 
 <div align="center">
   <sub>Készült ❤️-tel a hatékonyabb fejlesztői környezetért.</sub>
