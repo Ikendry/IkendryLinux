@@ -10,8 +10,8 @@
 
 </div>
 
-## 🗝️ License kulcs
-<input type="password">sad</input>
+## 🗝️ License kulcs *Később máshogy lesz!*
+
 > *3e8fs-p2kk4-55sam-p6a4b*
 
 
