@@ -10,7 +10,8 @@
 
 </div>
 
-## 🗝️ License kulcs *Később máshogy lesz!*
+## 🗝️ License kulcs 
+> *Később máshogy lesz!*
 
 > *3e8fs-p2kk4-55sam-p6a4b*
 
