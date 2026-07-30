@@ -11,10 +11,9 @@
 </div>
 
 ## 🗝️ License kulcs
-<input type="password"></input>
+<input type="password">sad</input>
 > *3e8fs-p2kk4-55sam-p6a4b*
 
----
 
 ## 🧭 Áttekintés
 
