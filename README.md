@@ -26,7 +26,7 @@ Ez a repository tartalmazza a friss Linux környezet gyors és hatékony felép�
 | 🔄 **Frissítési szkript** | Automatikusan karbantartja és frissíti a `good_shape` telepítőt. |
 | ⚙️ **Bash Config** | Személyre szabott aliasok és optimalizációk (`~/.bashrc`). |
 | 🐚 **Zsh Config** | Modern shell élmény egyedi beállításokkal (`~/.zshrc`). |
-| 🗝️ ** License kulcs** | szükséges ! (Még csak tesztelés képpen!)
+| 🗝️ **License kulcs** | szükséges ! (Még csak tesztelés képpen!)
 ---
 
 ## 📜 Változási Napló (Changelog)
