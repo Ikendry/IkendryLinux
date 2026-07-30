@@ -39,16 +39,16 @@ while IFS= read -r sor || [[ -n "$sor" ]]; do
     fi
 done < <(cat "$KULCS_FAJL")
 
-# Eredmény kiértékelése
+
 if [[ "$siker" == true ]]; then
     echo -e "${GREEN}Sikeres aktiválás!${RESET}"
 
-    # Biztonságosabb jogosultság beállítás (777 helyett csak futtathatóság)
+
     if [ -d "Parancsok" ]; then
         chmod -R +x Parancsok/
     fi
 
-    # Színek definíciója a menühöz
+
     BLUE='\033[1;34m'
     GREEN_M='\033[1;32m'
     CYAN='\033[1;36m'
@@ -61,7 +61,7 @@ if [[ "$siker" == true ]]; then
     echo -e "${PURPLE}╚════════════════════════════════════════╝${NC}"
     echo ""
 
-    # Parancsok szekció
+
     echo -e "${BLUE}⚙️  Parancsok:${NC}"
     echo -e "${CYAN}----------------------------------------${NC}"
     if [ -d "Parancsok" ]; then
@@ -71,7 +71,7 @@ if [[ "$siker" == true ]]; then
     fi
     echo ""
 
-    # Programok szekció
+
     echo -e "${BLUE}🚀 Programok:${NC}"
     echo -e "${CYAN}----------------------------------------${NC}"
     if [ -d "Programok" ]; then
@@ -81,7 +81,7 @@ if [[ "$siker" == true ]]; then
     fi
     echo ""
 
-    # Háttérképek szekció
+
     echo -e "${BLUE}🖼️  HáttérKépek (rekurzív):${NC}"
     echo -e "${CYAN}----------------------------------------${NC}"
     if [ -d "HáttérKépek" ]; then
@@ -92,7 +92,8 @@ if [[ "$siker" == true ]]; then
     echo -e "${PURPLE}════════════════════════════════════════${NC}"
 else
     echo -e "${RED}Hibás kulcs! Kilépés...${RESET}"
-    sleep 2
+    echo "A License kulcsot itt tudod beszerezni: https://docs.google.com/spreadsheets/d/1hZi6igfvCKjbEsj0pdEPLbVA5Q89iTJW6CVI_AepZZ8/edit?usp=sharing"
+    sleep 5
     clear
     echo -e "${YELLOW}Írd be a License kulcsot, különben nem tudod használni!${RESET}"
     sleep 2
