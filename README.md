@@ -12,6 +12,7 @@
 <div style="color:red">
 ## Fontos a Aktiválás.sh kell előbb futtatni hogy müködjön!
 </div>
+
 ## 🗝️ License kulcs(ok) 
 > *Később máshogy lesz!*
 
