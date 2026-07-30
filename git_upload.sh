@@ -1,3 +1,1 @@
-git add .
-git commit -m "feat: frissítve ($(date +%Y-%m-%d))"
-git push
+git add . && git commit -m "frissítve ($(date '+%Y-%m-%d %H:%M'))" && git push
