@@ -8,10 +8,11 @@
 [![Updated](https://img.shields.io/badge/updated-2026.07.31-emerald.svg?style=flat-square)](https://github.com)
 [![License](https://img.shields.io/badge/license-MIT-purple.svg?style=flat-square)](https://github.com)
 
-</div>
+
 
 ## Fontos a Aktiválás.sh kell előbb futtatni hogy müködjön!
 
+</div>
 
 ## 🗝️ License kulcs(ok) 
 > *Később máshogy lesz!*
