@@ -4,7 +4,7 @@
 
 > *Modern, optimalizált és automatizált alapbeállítások Linux környezethez.*
 
-[![Version](https://img.shields.io/badge/version-2.0.1-blue.svg?style=flat-square&color=6366f1)](https://github.com)
+[![Version](https://img.shields.io/badge/version-2.1-blue.svg?style=flat-square&color=6366f1)](https://github.com)
 [![Updated](https://img.shields.io/badge/updated-2026.07.31-emerald.svg?style=flat-square)](https://github.com)
 [![License](https://img.shields.io/badge/license-MIT-purple.svg?style=flat-square)](https://github.com)
 
@@ -16,6 +16,8 @@
 > **v2.0** *3e8fs-p2kk4-55sam-p6a4b*
 
 > **v2.0.1** *5o25o-2552b-44s5w-xxf6b*
+
+> **v2.1** *3xxt5-3357s-21va4-fx67a*
 
 
 ## 🧭 Áttekintés
@@ -32,10 +34,13 @@ Ez a repository tartalmazza a friss Linux környezet gyors és hatékony felép�
 | 🔄 **Frissítési szkript** | Automatikusan karbantartja és frissíti a `good_shape` telepítőt. |
 | ⚙️ **Bash Config** | Személyre szabott aliasok és optimalizációk (`~/.bashrc`). |
 | 🐚 **Zsh Config** | Modern shell élmény egyedi beállításokkal (`~/.zshrc`). |
-| 🗝️ **License kulcs** | szükséges ! (Még csak tesztelés képpen!)
+| 🗝️ **License kulcs** | szükséges ! (Még csak tesztelés képpen!) v2.1
 ---
 
 ## 📜 Változási Napló (Changelog)
+* **`v2.1`** - *2026.07.31*
+  * 📝 Frissitve: `Readme.md` fájl
+  * 🗝️ Hozzáadva:  `License kulcs` kell! (Még csak tesztelés képpen!) v2.1
 * **`v2.0.1`** - *2026.07.31*
   * 📝 Frissitve: `Readme.md` fájl
   * 🗝️ Hozzáadva:  `License kulcs` kell! (Még csak tesztelés képpen!) v2.0
