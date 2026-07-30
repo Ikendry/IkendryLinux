@@ -4,8 +4,8 @@
 
 > *Modern, optimalizált és automatizált alapbeállítások Linux környezethez.*
 
-[![Version](https://img.shields.io/badge/version-1.9.3-blue.svg?style=flat-square&color=6366f1)](https://github.com)
-[![Updated](https://img.shields.io/badge/updated-2026.07.29-emerald.svg?style=flat-square)](https://github.com)
+[![Version](https://img.shields.io/badge/version-2.0-blue.svg?style=flat-square&color=6366f1)](https://github.com)
+[![Updated](https://img.shields.io/badge/updated-2026.07.31-emerald.svg?style=flat-square)](https://github.com)
 [![License](https://img.shields.io/badge/license-MIT-purple.svg?style=flat-square)](https://github.com)
 
 </div>
@@ -26,11 +26,14 @@ Ez a repository tartalmazza a friss Linux környezet gyors és hatékony felép�
 | 🔄 **Frissítési szkript** | Automatikusan karbantartja és frissíti a `good_shape` telepítőt. |
 | ⚙️ **Bash Config** | Személyre szabott aliasok és optimalizációk (`~/.bashrc`). |
 | 🐚 **Zsh Config** | Modern shell élmény egyedi beállításokkal (`~/.zshrc`). |
-
+| 🗝️ ** License kulcs** | szükséges ! (Még csak tesztelés képpen!)
 ---
 
 ## 📜 Változási Napló (Changelog)
-* **`v1.9.4`** - *2026.07.29*
+* **`v2.0`** - *2026.07.31*
+  * 📝 Frissitve: `Readme.md` fájl
+  * 🗝️ Hozzáadva:  `License kulcs` kell! (Még csak tesztelés képpen!)
+* **`v1.9.4`** - *2026.07.30*
   * 📝 Frissitve: `Readme.md` fájl
 * **`v1.9.3`** – *2026.07.29*
   * ✨ Hozzáadva: `LinuxDistrok.sh` szkript
