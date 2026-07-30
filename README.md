@@ -9,9 +9,9 @@
 [![License](https://img.shields.io/badge/license-MIT-purple.svg?style=flat-square)](https://github.com)
 
 </div>
-<div style="color:red">
+
 ## Fontos a Aktiválás.sh kell előbb futtatni hogy müködjön!
-</div>
+
 
 ## 🗝️ License kulcs(ok) 
 > *Később máshogy lesz!*
