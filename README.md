@@ -15,10 +15,12 @@
 </div>
 
 ## 🗝️ License kulcs(ok) 
-
-> **v2.1.1** *4552b-bgs5w-bas4c-vcxx4*|*3e8fs-p2kk4-55sam-p6a4b*|*5o25o-2552b-44s5w-xxf6b*|*3xxt5-3357s-21va4-fx67a*
-
-
+| Verzió | Kulcs / Kód |
+| :--- | :--- |
+| **v2.0** | `3e8fs-p2kk4-55sam-p6a4b` |
+| **v2.0.1** | `5o25o-2552b-44s5w-xxf6b` |
+| **v2.1** | `3xxt5-3357s-21va4-fx67a` |
+| **v2.1.1** | `4552b-bgs5w-bas4c-vcxx4` |
 
 
 ## 🧭 Áttekintés
