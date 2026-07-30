@@ -11,7 +11,7 @@
 </div>
 
 ## 🗝️ License kulcs
-<button>Kulcs</button>
+<input type="password"></input>
 > *3e8fs-p2kk4-55sam-p6a4b*
 
 ---
