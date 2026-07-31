@@ -92,7 +92,7 @@ if [[ "$siker" == true ]]; then
     echo -e "${PURPLE}════════════════════════════════════════${NC}"
 else
     echo -e "${RED}Hibás kulcs! Kilépés...${RESET}"
-    echo "A License kulcsot itt tudod beszerezni: https://docs.google.com/spreadsheets/d/1hZi6igfvCKjbEsj0pdEPLbVA5Q89iTJW6CVI_AepZZ8/edit?usp=sharing"
+    echo "A License kulcsot itt tudod beszerezni: https://github.com/Ikendry/IkendryLinux"
     sleep 5
     clear
     echo -e "${YELLOW}Írd be a License kulcsot, különben nem tudod használni!${RESET}"
