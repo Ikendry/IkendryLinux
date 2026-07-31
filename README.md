@@ -46,6 +46,7 @@ Ez a repository tartalmazza a friss Linux környezet gyors és hatékony felép�
 * **`v26.1`** - *2026.08.01*
   * 📝 Frissitve: `Readme.md` fájl
   * 🗝️ Frissitve:  `License kulcs` kell! (Még csak tesztelés képpen!) v2.1.1 --> v26.1
+  * 📝 Frissitve: áttértünk verziókkal mostantól v2.2 helyett v26.1 lesz!
 * **`v2.1.1`** - *2026.07.31*
   * 📝 Frissitve: `Readme.md` fájl
   * 🗝️ Frissitve:  `License kulcs` kell! (Még csak tesztelés képpen!) v2.1.1
